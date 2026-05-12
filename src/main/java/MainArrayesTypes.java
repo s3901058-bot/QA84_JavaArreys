@@ -22,6 +22,7 @@ public class MainArrayesTypes {
 
 
         System.out.println(MethodsArray1.arraySum(arb));
+        System.out.println(MethodsArray1.arraySum(arbool));
 
      }
 }
