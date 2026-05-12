@@ -28,6 +28,8 @@ Home Work
         return sum;
     }
 
+
+/*
     public static byte[] arraySum(boolean[] ar) {
        byte[] sum = new byte[ar.length]; //создаем такой же байт массив как и болеан той же длины
        for(int s=0;s<ar.length;s++){     // делаем перебор от индекса 0 до конца массива по шагово S// ++
