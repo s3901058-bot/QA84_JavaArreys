@@ -4,7 +4,7 @@ public class MainArrayesTypes {
         double[] ard ={8.2,7.23,9.12,-23.3,-2.1};
         char[] arc={'h','e','l','l','o'};
         byte[] arb={3,127,5,-15,8};
-        boolean[] arbool={true,false,true,false};
+        boolean[] arbool={true,false,true,false,false};
         String[] arstr={"Hello","Course","QA"};
         float[] arf={6.2f,5.7f,};
 
