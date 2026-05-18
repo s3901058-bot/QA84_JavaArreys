@@ -28,14 +28,15 @@ Home Work
         return sum;
     }
 
-    public static int arraySum(boolean[] ar) {
-        int sum = 0;
+    public static byte arraySum(boolean[] ar) {
+        byte sum = 0;
         for (boolean num : ar) {
-                            sum++;
-            }
-
-               return sum;
+            if(num==true)
+                sum++;
+        }
+        return sum;
     }
+    /*
 
 /*
     public static byte[] arraySum(boolean[] ar) {
